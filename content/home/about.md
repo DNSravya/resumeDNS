@@ -10,7 +10,7 @@ subtitle: ""
 design:
   background:
     image: images.jpg
-    image_darken: ""
+    image_darken: 1
   columns: ""
 ---
 <!--StartFragment-->
