@@ -11,6 +11,7 @@ design:
   background:
     image: images.jpg
     image_darken: 1
+    text_color_light: false
   columns: ""
 ---
 <!--StartFragment-->
